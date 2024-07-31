@@ -1,0 +1,13 @@
+<!-- res/menu/main_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_add_vocabulary"
+        android:title="Add Vocabulary"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item
+        android:id="@+id/action_view_vocabulary_list"
+        android:title="View Vocabulary List"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+</menu>
